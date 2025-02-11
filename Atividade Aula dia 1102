@@ -1,0 +1,87 @@
+Style.css
+
+body {
+   background-color: #e4dbdb;
+   background-image: url("fundo.jpg");
+   background-size: cover;
+}
+
+button{
+     color: #e4dbdb;
+     text-align: center;
+     font-size: 25px;
+     font-family: Arial, Helvetica, sans-serif;
+     
+}
+ img{
+
+   margin: 12px 0 22px 0;
+ }
+
+li{
+
+color: #e4dbdb;
+text-align: center;
+font-size: 25px;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+b{
+
+color: #e4dbdb;
+text-align: right;
+font-size: 15px;
+font-family: Arial, Helvetica, sans-serif;
+
+}
+
+p{
+
+   color: #e4dbdb;
+   text-align: center;
+   font-size: 25xp;
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+
+Codigo Html
+
+   <!DOCTYPE html>
+   <html>
+   <head>
+        <link rel="stylesheet"  href="style.css">
+ 
+   </head>
+   <body>
+          
+         <ul class="lista">
+
+          <ul>
+            <li style="text-align: center;">
+                <h1>Meu Portfólio</h1>
+            </li>
+        </ul>
+        
+        <p>- Andrei Jose Campestrini</p>
+        <p>- Idade: 20 anos</p>
+        <p>- Altura: 1.85</p>
+        <p>- Atuo na Area de Suporte</p>
+        <p>- Jogador de Futebol</p>
+        <p>- Contato : 46998541361</p>
+
+  
+
+
+
+
+       <b> PARA MAIS INFORMAÇOES ENTRE EM CONTATO VIA TELEFONE/WHATS (46) 988245678 </b>
+
+         </ul>
+
+</body>
+
+
+
+ </html>
+
+
